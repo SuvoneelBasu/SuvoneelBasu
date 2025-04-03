@@ -1,5 +1,6 @@
 <h1>Hi there, I am Suvoneel</h1>
-<p>Hi there! I'm Suvoneel, a passionate UI/UX Designer and MERN stack enthusiast currently pursuing my B.Tech in Computer Science and Engineering at Academy of Technology. I love exploring new technologies, and solving complex problems through code. I'm Currently Working On   🚧 Learning advanced **MERN stack** to strengthen my full-stack development skills.  🚧 Exploring **System Design & Architecture** to build efficient applications.    🚀 Always open to learning, collaborating, and building awesome things together!  </p>
+<p>🚀 Java Developer | Full-Stack Enthusiast
+Hey there! I'm Suvoneel Basu Roy Chowdhury, a passionate Java developer and aspiring full-stack engineer. I enjoy building scalable backend solutions and exploring Java-based frameworks to create efficient applications. </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
