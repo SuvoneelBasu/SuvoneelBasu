@@ -1,5 +1,5 @@
 <h1>Hi there, I am Suvoneel</h1>
-<p>🚀 Java Developer | Full-Stack Enthusiast
+<p>🚀 Java Developer | Full-Stack Enthusiast<br>
 Hey there! I'm Suvoneel Basu Roy Chowdhury, a passionate Java developer and aspiring full-stack engineer. I enjoy building scalable backend solutions and exploring Java-based frameworks to create efficient applications. </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
